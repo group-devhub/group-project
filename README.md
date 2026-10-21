@@ -27,7 +27,7 @@ The files are as follows:
 | No. | Member | Task |
 |-----|--------|------|
 | 1 | Biron Odiwour | [To be assigned] |
-| 2 | Elavoga Joy | [Cordinator] |
+| 2 | Elavoga Joy | Cordinator |
 | 3 | Nzilani Grace | To be assigned |
-| 4 | Samuel Mwasi| [To be assigned] |
+| 4 | Samuel Mwasi| Dynamic Programming |
 | 5 | Brian Mwangi | [To be assigned] |
