@@ -1,0 +1,15 @@
+import java.util.HashMap;
+
+public class Memoization {
+    private static HashMap<Integer, Long> memo = new HashMap<>();
+    public static long fibMemo(int n) {
+        if (memo.containsKey(n)) return memo.get(n);
+        if (n <= 1) return n;
+        long result = fibMemo(n-1) + fibMemo(n-2);
+        memo.put(n, result);
+        return result;
+    }
+    public static void main(String[] args) {
+        System.out.println("Fib 10 using Memoization: " + fibMemo(10));
+    }
+}
