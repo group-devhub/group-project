@@ -28,6 +28,6 @@ The files are as follows:
 |-----|--------|------|
 | 1 | Biron Odiwour | [Recursive approach] |
 | 2 | Elavoga Joy | Cordinator |
-| 3 | Nzilani Grace | To be assigned |
+| 3 | Nzilani Grace | iterative approach using an array |
 | 4 | Samuel Mwasi| Dynamic Programming |
-| 5 | Brian Mwangi | [To be assigned] |
+| 5 | Brian Mwangi | [customer loyalty reward system] |
