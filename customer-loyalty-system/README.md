@@ -2,7 +2,7 @@
 
 **Contributor:** Brian Mwangi  
 **Admission number:** CT206/124741/25  
-**Course:** BSc Computer Security and Forensics  
+**Course:** Bcsf Computer Security and Forensics  
 **Unit:** Data Structures
 
 ## Purpose
